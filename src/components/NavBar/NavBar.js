@@ -1,3 +1,6 @@
+// Component that holds the Navbar
+//Also has the html neeed to display the score, total score, and messages during gameplay
+
 import React, { Component } from "react";
 import "./style.css"
 

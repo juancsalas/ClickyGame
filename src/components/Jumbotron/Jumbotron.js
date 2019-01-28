@@ -1,3 +1,5 @@
+// Component for the Jumbotron
+
 import React from "react";
 import "./style.css"
 
