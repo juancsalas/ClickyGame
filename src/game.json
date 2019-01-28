@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "name": "abe",
+        "image": "abe.png"
+    },
+    {
+        "id": 2,
+        "name": "apu",
+        "image": "apu.png"
+    },
+    {
+        "id": 3,
+        "name": "barney",
+        "image": "barney.png"
+    },
+    {
+        "id": 4,
+        "name": "bart",
+        "image": "bart.png"
+    },
+    {
+        "id": 5,
+        "name": "comicguy",
+        "image": "comicguy.png"
+    },
+    {
+        "id": 6,
+        "name": "flanders",
+        "image": "flanders.png"
+    },
+    {
+        "id": 7,
+        "name": "homer",
+        "image": "homer.png"
+    },
+    {
+        "id": 8,
+        "name": "krusty",
+        "image": "krusty.png"
+    },
+    {
+        "id": 9,
+        "name": "lisa",
+        "image": "lisa.png"
+    },
+    {
+        "id": 10,
+        "name": "marge",
+        "image": "marge.png"
+    },
+    {
+        "id": 11,
+        "name": "moe",
+        "image": "moe.png"
+    },
+    {
+        "id": 12,
+        "name": "skinner",
+        "image": "skinner.png"
+    }
+    
+]

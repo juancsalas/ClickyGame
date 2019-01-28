@@ -1,0 +1,19 @@
+@font-face {
+    font-family: simpsonfont;
+    src: url(../../assets/simpsonfont/Simpsonfont.ttf);
+}
+
+
+.jumbotron {
+    border-radius: 0;
+    background-color: #f4de31;
+    font-family: simpsonfont;
+    padding-top: 100px;
+    padding-bottom: 10px;
+}
+
+.instructions {
+    margin-top: 15px;
+    font-size: 20px;
+}
+

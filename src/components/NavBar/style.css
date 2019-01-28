@@ -1,0 +1,18 @@
+@font-face {
+    font-family: simpsonfont;
+    src: url(../../assets/simpsonfont/Simpsonfont.ttf);
+}
+
+
+.navbar {
+    background-color: #D6BE00;
+    font-family: simpsonfont;
+    font-size: 25px;
+    position: fixed;
+    width: 100%;
+    z-index: 99;
+}   
+
+.navbar-brand {
+    font-size: 25px;
+}
