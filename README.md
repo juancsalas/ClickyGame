@@ -1,10 +1,20 @@
 # ClickyGame - Juan Carlos Salas
-## Coding Bootcamp - Assignment Week 19
 
-This is a memory game where the user tries to not repeat selected panels for as long as possible. Each time a panel is selected, the app will shuffle the panels adding a level of difficulty. 
+###About the App
+This is a memory game where users try to not repeat selected panels for as long as possible. Each time a panel is selected, the app will shuffle the panels adding a level of difficulty. The app will keep track of your current score as well as high score, which where it will update after the user has passed the current high score.
 
-The app uses Create React App and several components to create the complete application.
+This game was built with a theme from the television show "The Simpsons" and includes several design elements and characters from the show.
 
-It is also themed after the Television show The Simpsons and included several design elements from the program.
+###Development
+The app is built using [React](https://github.com/facebook/react) and uses several custom components. For its functionality, [JSON](https://www.json.org/) is implemented which holds the information of each card, which is important into the App.js so it can be displayed and shuffled randomly.
 
-You can use the deployed app by clicking the following link: https://damp-woodland-44296.herokuapp.com/
+There are several [Yarn](https://github.com/yarnpkg/yarn) packages which will have to be installed if the repository is ever cloned, as well as node packages.
+
+The principal purpose for building this game was to practice breaking up an applications UI into several components, be able to manage component state as well as the response to user events.
+
+###Deployment
+
+To deploy locally, clone the repository into your local machine and run ```yarn install``` to install all Yarn packages. Once that is completed enter ```yarn start``` into your terminal, and the Reach will automatically deploy the app into your default browser
+
+
+To see a demo of the application currently being hosted on Heroku, please [Click Here](https://damp-woodland-44296.herokuapp.com/yt).
