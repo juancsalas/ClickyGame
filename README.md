@@ -17,4 +17,4 @@ The principal purpose for building this game was to practice breaking up an appl
 To deploy locally, clone the repository into your local machine and run ```yarn install``` to install all Yarn packages. Once that is completed enter ```yarn start``` into your terminal, and the Reach will automatically deploy the app into your default browser
 
 
-To see a demo of the application currently being hosted on Heroku, please [Click Here](https://damp-woodland-44296.herokuapp.com/yt).
+To see a demo of the application currently being hosted on [Heroku](https://github.com/heroku), please [Click Here](https://damp-woodland-44296.herokuapp.com/yt).
