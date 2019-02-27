@@ -1,5 +1,3 @@
-// GameCard component that contains HTML to hold every character
-
 import React from "react";
 import "./style.css";
 
